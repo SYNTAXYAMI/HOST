@@ -2,3 +2,5 @@ flask
 flask-socketio
 psutil
 werkzeug
+eventlet
+gunicorn
